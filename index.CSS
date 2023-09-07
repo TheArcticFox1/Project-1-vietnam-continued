@@ -3,6 +3,7 @@ body {
 
     background-image: url("./vietnamImages/v3.jpg");
     background-size: cover;
+    background-position: center;
     text-align:justify;
     color:yellow;
     font-size: 18px;
