@@ -1,1 +1,1 @@
-This 2nd page is Titled - "The Vietnam War" -
+This 2nd page is Titled - "The Vietnam War"
